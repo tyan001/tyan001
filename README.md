@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @tyan001
-- 👀 I’m interested in ... Deep Learning
-- 🌱 I’m currently learning ... CUDA and ML Acceleration
-- 💞️ I’m looking to collaborate on ... CUDA related acceleration
-- 📫 How to reach me ...
+- 👋 Hi, I’m @tyan001 I am a Doctoral student with 4+ years of experience in programming and deep learning. Proven track record in pioneering next-generation technologies and executing deep learning algorithms. Proficient in data organization for comprehensive analysis, with a collaborative approach that contributes to team success in solving real-world challenges. Eager to leverage expertise in deep learning to contribute to high-impact projects.
+
 
 <!---
 tyan001/tyan001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
