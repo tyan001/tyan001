@@ -33,3 +33,10 @@
   <img width="48%" src="https://streak-stats.demolab.com/?user=tyan001&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
 </p>
 
+## 🧠 Interview Prep
+
+<p align="left">
+  <a href="https://neetcode.io/practice" target="_blank">
+    <img src="https://img.shields.io/badge/NeetCode-000000?logo=leetcode&logoColor=white" height="28" alt="NeetCode">
+  </a>
+</p>
